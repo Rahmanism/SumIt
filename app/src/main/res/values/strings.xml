@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">جمعش کن!</string>
+    <string name="app_title">جمع سه رقمی</string>
+
+    <string name="action_settings">تنظیمات</string>
+    <string name="about">درباره</string>
+
+    <string name="myname">مصطفی رحمانی</string>
+    <string name="website">http://rahmanism.ir</string>
+    <string name="ok">خب</string>
+    <string name="cancel">انصراف</string>
+
+    <string name="mark">نمره</string>
+    <string name="answered_count">تعداد پاسخ</string>
+    <string name="correct">درست</string>
+    <string name="wrong">اشتباه</string>
+    <string name="result">نتیجه</string>
+    <string name="reset">جدید</string>
+
+    <string name="plus_sign">+</string>
+    <string name="equal_sign">=</string>
+
+    <string name="error_whatisit">این دیگه چیه؟!</string>
+    <string name="correct_answer_is">پاسخ درست=></string>
+    <string name="good_job">آفرین! :)</string>
+    <string name="wrong_answer">اشتباه بود :(</string>
+    <string name="high_score">بالاترین امتیاز</string>
+    <string name="version">نسخه</string>
+
+    <string name="digits">تعداد رقم</string>
+    <string name="save">ذخیره کردن اطلاعات</string>
+</resources>

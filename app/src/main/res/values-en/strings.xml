@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SumIt</string>
+    <string name="app_title">Sum Three Digit Numbers</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+
+    <string name="myname">Mostafa Rahmani</string>
+    <string name="website">http://rahmanism.ir</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="mark">Mark</string>
+    <string name="answered_count">Answered Count</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="result">Result</string>
+    <string name="reset">Reset</string>
+
+    <string name="plus_sign">+</string>
+    <string name="equal_sign">=</string>
+
+    <string name="error_whatisit">What is this?!</string>
+    <string name="correct_answer_is">Correct Answer=></string>
+    <string name="good_job">Good Job! :)</string>
+    <string name="wrong_answer">Wrong Answer :(</string>
+    <string name="high_score">High Score</string>
+    <string name="version">Version</string>
+
+    <string name="digits">Number of digits</string>
+
+</resources>

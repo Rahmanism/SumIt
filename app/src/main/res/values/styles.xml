@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="green_back">
+        <item name="android:background">@color/correct</item>
+    </style>
+
+    <style name="green_fore">
+        <item name="android:textColor">@color/correct</item>
+    </style>
+
+    <style name="red_back">
+        <item name="android:background">@color/wrong</item>
+    </style>
+
+    <style name="red_fore">
+        <item name="android:textColor">@color/wrong</item>
+    </style>
+
+    <style name="correct">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/correct</item>
+    </style>
+
+    <style name="wrong">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/wrong</item>
+    </style>
+
+    <style name="info">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/info</item>
+    </style>
+
+    <style name="warning">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/warning</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
